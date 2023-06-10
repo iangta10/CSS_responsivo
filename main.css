@@ -90,16 +90,6 @@ header li a{
     border-radius: 8px;
 }
 
-footer{
-    display: flex;
-    margin-top: 32px;
-    padding: 8px;
-    background-color: rgba(3, 158, 3, 0.822);
-    color: white;
-    align-items: center;
-    justify-content: space-between;
-}
-
 .social-links{    
     margin-right: 10px;
 }
@@ -213,7 +203,4 @@ footer{
         font-size: 16px;
     }
 
-    footer{
-        margin-top: 0;
-    }
 }
